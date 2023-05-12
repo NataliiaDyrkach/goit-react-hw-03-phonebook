@@ -1,0 +1,18 @@
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 300px;
+  height: 30px;
+  padding: 0 10px 0 10px;
+  margin-left: 50px;
+
+  border: 1px solid grey;
+  outline: none;
+
+  color: black;
+  font-size: 14px;
+}
